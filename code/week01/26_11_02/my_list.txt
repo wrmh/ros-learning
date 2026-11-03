@@ -1,0 +1,6 @@
+8805754 -rw-rw-r-- 2 wrmh wrmh 12 11月  2 18:16 hard_link.txt
+8805758 lrwxrwxrwx 1 wrmh wrmh 12 11月  2 18:17 soft_link.txt -> src/file.txt
+8805754 -rw-rw-r-- 2 wrmh wrmh 12 11月  2 18:16 src/file.txt
+8805754 -rw-rw-r-- 2 wrmh wrmh 12 11月  2 18:16 hard_link.txt
+8805758 lrwxrwxrwx 1 wrmh wrmh 12 11月  2 18:17 soft_link.txt -> src/file.txt
+8805754 -rw-rw-r-- 2 wrmh wrmh 12 11月  2 18:16 src/file.txt
